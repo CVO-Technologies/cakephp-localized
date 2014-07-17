@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CakePHP Dutch Translation\n"
 "POT-Creation-Date: 2012-12-19 18:18+0000\n"
-"PO-Revision-Date: 2014-07-17 16:16+0200\n"
+"PO-Revision-Date: 2014-07-17 18:01+0200\n"
 "Last-Translator: Marlin Cremers <m.cremers@cvo-technologies.com>\n"
 "Language-Team: \n"
 "Language: nld\n"
@@ -18,7 +18,7 @@ msgstr "Steiger :: "
 
 #: Controller/Scaffold.php:167;234;305
 msgid "Invalid %s"
-msgstr "%s ongeldig"
+msgstr "Ongeldige %s"
 
 #: Controller/Scaffold.php:222
 msgid "updated"
@@ -34,11 +34,11 @@ msgstr "De %1$s is %2$s"
 
 #: Controller/Scaffold.php:256
 msgid "Please correct errors below."
-msgstr "Corrigeer de onderstaande fouten aub."
+msgstr "Corrigeer de onderstaande fouten."
 
 #: Controller/Scaffold.php:308
 msgid "The %1$s with id: %2$s has been deleted."
-msgstr "De %1$s met id: %2$s werd verwijderd."
+msgstr "De %1$s met id: %2$s is verwijderd."
 
 #: Controller/Scaffold.php:311
 msgid "There was an error deleting the %1$s with id: %2$s"
@@ -46,7 +46,7 @@ msgstr "Een fout heeft zich voorgedaan bij het verwijderen van %1$s met id: %2$s
 
 #: Controller/Component/AuthComponent.php:369
 msgid "You are not authorized to access that location."
-msgstr "U heeft geen toestemming om die locatie te bekijken."
+msgstr "U heeft geen toegang tot die locatie."
 
 #: Error/ExceptionRenderer.php:209
 msgid "Not Found"
@@ -58,7 +58,7 @@ msgstr "Een Interne Fout Is Opgetreden."
 
 #: Model/Validator/CakeValidationSet.php:287
 msgid "This field cannot be left blank"
-msgstr "Dit is een verplicht veld"
+msgstr "Dit veld kan niet worden leeggelaten"
 
 #: Network/CakeResponse.php:1222
 msgid "The requested file was not found"
